@@ -93,5 +93,3 @@ It's the same as above, with the only exception that all machines are removed.
     server_shutdown
 
 This commands shuts down the entire **Server**, taking care of removing all running **Bolt** instances.
-
-##License
